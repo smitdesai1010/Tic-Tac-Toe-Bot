@@ -1,10 +1,14 @@
 # Tic-Tac-Toe.ML
 
+Hey ! Welcome. 
+
+It's a Tic-Tac-Toe game which developed for fun back in High-School.
+Afterwards, I improvised it further by adding a computer bot that you can play with different levels of difficulties.
+
+
 I used 2 different kinds of algorithm for creating different levels of difficulty.
 
-
 For the impossible level , I implemented Mini-Max algorithm (using Decision-Tree from scratch) and optimized it with alpha-beta pruning.
-
 
 For normal and hard levels, I deployed my own algorithm which after observing and playing numerous times against other algorithms to understand how actually they function, I also developed a algorithm that allows the computer to play with different difficulty levels.
 
