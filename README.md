@@ -1,4 +1,4 @@
-# Tic-Tac-Toe.ML
+# Tic-Tac-Toe Bot
 
 Hey ! Welcome. 
 
